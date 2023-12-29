@@ -1,7 +1,6 @@
 
 
 This exercice contains a notebook file 'technical-test.ipynb' with two parts:
-L'exercice  contient deux parties :
 
 - part I : Mondatory.
 
